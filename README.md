@@ -191,7 +191,3 @@ The interactive playground with:
 | Dark / Light         | Toggle theme (persisted)                                     |
 
 ---
-
-## License
-
-Educational project — use freely.
