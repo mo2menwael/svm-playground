@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://svmplayground.netlify.app/sitemap.xml
