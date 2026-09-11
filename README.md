@@ -4,7 +4,7 @@ An interactive, browser-based simulation of **Support Vector Machines** built
 from scratch in HTML, CSS, and vanilla JavaScript (ES modules). No frameworks,
 no build step.
 
-Live Demo: https://svmplayground.pages.dev/
+Live Demo: https://svmplayground.vercel.app/
 
 The app is split into two pages:
 
